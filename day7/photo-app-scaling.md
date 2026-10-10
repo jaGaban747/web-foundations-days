@@ -65,7 +65,7 @@ Instead, photo files go into **object storage**, which is cheap, durable and bui
 ## 5. Architecture diagram
 
 ```
-        Users (mobile app and web browser)
+            Users (mobile app and web browser)
               |                                         ^
               | 1. API requests                         | 6. photo files
               v                                         |
